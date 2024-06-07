@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "List Pages Pictures",
+  "content": "<!-- wp:shortcode -->\n[gm_list_pages_pictures]\n<!-- /wp:shortcode -->",
+  "syncStatus": ""
+}

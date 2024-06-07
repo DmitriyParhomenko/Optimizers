@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "Contact Block",
+  "content": "<!-- wp:html -->\n<a href=\"/contact/\" class=\"button gm-stretch center primary-text effect\">\n                <span>\n                    Contact Us\n                </span>\n            </a>\n<div class=\"wp-block-gm-blocks-separator separator\"></div>\n<!-- /wp:html -->",
+  "syncStatus": ""
+}

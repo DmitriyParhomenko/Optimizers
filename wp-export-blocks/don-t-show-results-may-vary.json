@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "Don't show; \"Results may vary\"",
+  "content": "<!-- wp:html -->\n<style>.page .text:after {content:none;}</style>\n<!-- /wp:html -->",
+  "syncStatus": ""
+}

@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "No TOC",
+  "content": "<!-- wp:shortcode -->\n[no_toc]\n<!-- /wp:shortcode -->",
+  "syncStatus": ""
+}
